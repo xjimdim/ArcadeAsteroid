@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{6ADFEC83-38C2-89ED-DE94-2E564D0FF33E}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_1;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Graphics\Facebook_files\-t8-Q6K39bs.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\08YHtzUknGv.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\0Wps6_Ei0vf.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\1WcvPyn_85Q.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\2dDRppfx2WA.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\2pJHC0UvG4P.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\36lFP8LxECM.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\3X_45Z3MDd0.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\3cZSwe9tZb6.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\5MfMvZUtPOX.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\67aORTdbb0o.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\705iapzaGgE.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\8XDd_20-c1N.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\9xAiDFn6xAq.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\B5MaKomU95P.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\D-_vypIzjIX.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\EVO61kewNyk.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\EcVzMsUR1Ku.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\F1hTT9_rRI4.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\FY3BDYOD8Ia.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\FpUaS7yeNhL.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\G0exRDT48jq.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\HMomlvcfLEG.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\IoNQwQj6Inx.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\JNtbIdWL4BO.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\Jc13Pu5ZMpT.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\Ji8gyblpcLp.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\JvK_C44obT2.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\M87aic1_DN2.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\MVevh_n5s5c.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\Nc7ZZbKpxoI.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\Nr162AUZSW5.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\PBVeCl2T0Ci.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\PoYigH_aK9c.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\QUGacFwhH7W.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\Qal89YYmYf_.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\R98ZM3xCJ7A.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\RKmGuaR_QJ_.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\RLmsbQnxOo8.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\TFTT9vDscE9.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\TflYpWFXJ2u.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\US_IuySJnmi.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\UeqeCT7-2bd.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\UfpUQNMAMco.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\VUHU6YvHCCw.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\WqJaVGrWg8x.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\XKfScXYMBJy.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\YWCaL0-TlZC.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\Z-K_nGcBife.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\Z087mEOIS5Q.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\_1q0FGCQsBQ.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\_XdJSiWPobd.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\aF2SQJZIUWE.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\angQ2bk7B8U.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\b4KwsplVeXd.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\ckDCl5D_Azo.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\dNJEg6X04F0.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\eWXQZf8ZnrV.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\eaCFpGCTg81.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\erL-fxzv2zQ.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\f0Kql_x_OSR.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\f9coq4KOjWv.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\fFDIu2q2EgI.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\h8thQdH1-Ar.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\h9CSm_nrIzf.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\h9SRTSQXDLL.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\iApRvd0ujJV.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\iO7vm3_BByT.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\ig9wl4uhWEj.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\itjsLjN34G_.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\k4ZOTju1TgT.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\kTSRiZ7IPDz.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\kwAOu8WsuA6.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\l87QIQ2F96R.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\lDSGQMW2c_3.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\nqOXbI1916I.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\o1J9KqkP4wF.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\oUJqA-_inkT.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\pgIFigKDbSS.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\q4rBOoawRY9.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\qCqIMJAU-_Z.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\qWACa2ACTqC.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\rpiBNPYNO4R.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\scXqO8fw8Nq.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\wqGeVYN-N_X.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\xpF8fVokej_.js" />
+     <Compile Include="Assets\Graphics\Facebook_files\yamBb_OVu4F.js" />
+     <None Include="Assets\Plugins\Android\facebook\proguard-project.txt" />
+     <None Include="Assets\Plugins\Android\facebook\bin\R.txt" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_button_blue.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_tooltip_bubble.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values-xhdpi\dimens.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_friendpickerfragment.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values\attrs.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values-he\strings.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values-hdpi\dimens.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values-mdpi\dimens.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_placepickerfragment.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_button_like.xml" />
+     <None Include="Assets\Plugins\Android\facebook\bin\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_search_bar_layout.xml" />
+     <None Include="Assets\Plugins\Android\facebook\bin\proguard.txt" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_button_like_selected.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_top_background.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_checkbox.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_search_box.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_image.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values\colors.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_activity_circle_row.xml" />
+     <None Include="Assets\Plugins\Android\facebook\build.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values\strings.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values\styles.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values-iw\strings.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_usersettingsfragment_background_gradient.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values-ldpi\dimens.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_placepickerfragment_list_row.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_picker_top_button.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_usersettingsfragment.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_list_section_header.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_picker_list_selector_background_transition.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_picker_item_background.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values-es\strings.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_list_row.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\values\drawables.xml" />
+     <None Include="Assets\Plugins\Android\facebook\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_title_bar.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_top_button.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_button_check.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_login_activity_layout.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\layout\com_facebook_picker_title_bar_stub.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_loginbutton_silver.xml" />
+     <None Include="Assets\Plugins\Android\facebook\res\drawable\com_facebook_picker_list_selector.xml" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="IFacebook">
+ <HintPath>C:/Users/XjiMDim/Desktop/Unity Projects/Arcade Asteroid/Assets/Facebook/Scripts/IFacebook.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerSpawner.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FBHolder.cs" Line="219" Column="114" />
+      <File FileName="Assets\Scripts\PlayerSpawner.cs" Line="46" Column="71" />
+      <File FileName="Assets\Scripts\DamageHandler.cs" Line="58" Column="1" />
+      <File FileName="Assets\Scripts\Util.cs" Line="50" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
