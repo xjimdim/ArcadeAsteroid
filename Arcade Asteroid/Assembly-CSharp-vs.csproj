@@ -124,7 +124,7 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="IFacebook">
- <HintPath>C:/Users/XjiMDim/Desktop/Unity Projects/Arcade Asteroid/Assets/Facebook/Scripts/IFacebook.dll</HintPath>
+ <HintPath>C:/Users/XjiMDim/Desktop/Unity Projects/ArcadeAsteroid/Arcade Asteroid/Assets/Facebook/Scripts/IFacebook.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
