@@ -1,7 +1,7 @@
 # ArcadeAsteroid
 Arcade Asteroid [Unity Project]
 
-This is the complete project of Arcade Asteroid made entirely in Unity 4.6 with fool Facebook integration (using Facebook SDK 6.2.1).
+This is the complete project of Arcade Asteroid made entirely in Unity 4.6 with full Facebook integration (using Facebook SDK 6.2.1).
 
 The basic code (movement, shooting, and basic damage methods) and most of the sprites are from quill18creates (a great youtuber who does excellent unity tutorials). 
 
