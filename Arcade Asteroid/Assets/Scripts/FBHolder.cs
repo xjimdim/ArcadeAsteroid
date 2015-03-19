@@ -54,7 +54,7 @@ public class FBHolder : MonoBehaviour {
 	}
 
 	public void FBLogin(){
-		FB.Login ("email", AuthCallback);
+		FB.Login ("email, user_friends, publish_actions", AuthCallback);
 	}
 
 	void AuthCallback(FBResult result){
